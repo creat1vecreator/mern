@@ -1,0 +1,8 @@
+{
+
+    "port": 5000,
+    "mongoUri": "mongodb+srv://andrew:hNB-8ue-tek-qPn@cluster0.jzb1y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "chistyakoffAndrewMern",
+    "baseUrl": "http://loaclhost:5000"
+}
+
